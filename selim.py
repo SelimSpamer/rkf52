@@ -89,7 +89,7 @@ jalan("\033[1;97m•◈•───────•◈ Assalamo Alaikum •◈•
 
 
 
-jalan("   \033[1;94m RKF-52 USERZ USE ANY PROXY ")	
+jalan("   \033[1;94m Termux USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
 jalan("   \033[1;93m Welcome to Selim Creations ")
