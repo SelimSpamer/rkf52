@@ -85,14 +85,14 @@ print  """
 
 """
 
-jalan("\033[1;97m•◈•───────•◈ Assalamo Alaikum •◈•───────•◈•")  
+jalan("\033[1;96m•◈•───────•◈ Assalamo Alaikum •◈•───────•◈•")  
 
 
 
-jalan("   \033[1;94m Termux USERZ USE ANY PROXY ")	
-jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
+jalan("           \033[1;95m Termux USERZ USE ANY PROXY ")	
+jalan("           \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Selim Creations ")
+jalan("           \033[1;93m Welcome to Selim Creations ")
 
 jalan("\033[1;96m•◈•──────────•◈•\033[1;96mSelimSpamer\033[1;96m•◈•──────────•◈•")
 
@@ -315,10 +315,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
-	print "   \033[1;31;48m ●🇧🇩══════════════════◄►══════════════════🇧🇩●"
+	print "   \033[1;31;48m    ●🇧🇩══════════════════◄►══════════════════🇧🇩●"
 
-	jalan('                      \033[1;97mSelim start cloning Wait...')
-	print  "  \033[1;36;48m   ●💞═════════════════👁👁═════════════════💞●" 
+	jalan('                          \033[1;97mSelim start cloning Wait...')
+	print  "  \033[1;36;48m    ●💞═════════════════👁👁═════════════════💞●" 
 
 	def main(arg):
 		global cekpoint,oks
