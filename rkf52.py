@@ -85,7 +85,7 @@ print  """
 
 """
 
-jalan("\033[1;96m•◈•───────•◈ Assalamo Alaikum •◈•───────•◈•")  
+jalan("  \033[1;96m•◈•───────•◈ Assalamo Alaikum •◈•───────•◈•")  
 
 
 
@@ -94,7 +94,7 @@ jalan("           \033[1;91m WIFI USERZ USE ANY PROXY ")
 
 jalan("           \033[1;93m Welcome to Selim Creations ")
 
-jalan("\033[1;96m•◈•──────────•◈•\033[1;96mSelimSpamer\033[1;96m•◈•──────────•◈•")
+jalan("  \033[1;96m•◈•──────────•◈•\033[1;96mSelimSpamer\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "selim"
 CorrectPassword = "rkf52"
