@@ -8,10 +8,4 @@ cd rkf52
 chmod +x *
 python2 rkf52
 
-<p align="center">
-<a href="#"><img title="rkf52" src="/sdcard/0/rkf52"></a>
-</p>
-<p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
-</p>
 
