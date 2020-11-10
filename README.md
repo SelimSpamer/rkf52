@@ -9,5 +9,9 @@ chmod +x *
 python2 rkf52
 
 <p align="center">
-<a href="#"><img title="rkf52" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
+<a href="#"><img title="rkf52" src="https://raw.githubusercontent.com/sdcard/0/rkf52"></a>
 </p>
+<p align="center">
+<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
+</p>
+
